@@ -1,6 +1,6 @@
 public class Tigre extends Vertebrados {
-    protected int cantidadColmillos;
-    protected int pesoMaximo;
+    private int cantidadColmillos;
+    private int pesoMaximo;
 
 
 //Constructor de la clase tigre
