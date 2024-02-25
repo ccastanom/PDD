@@ -7,6 +7,21 @@ public class ciemPies extends Invertebrados {
     private String color; 
     private int paresPatas;
 
+//Constructor de la clase ciemPies
+
+    public ciemPies (){
+    System.out.println("Constructor de la clase ciemPies");
+
+}
+
+//Metodos abstractos definidos en la clase Invertebrados
+
+    public void alimentarse (){
+    System.out.println("Soy un ciemPies y me alimento de otros insectos");
+
+    }
+
+
 
 
 

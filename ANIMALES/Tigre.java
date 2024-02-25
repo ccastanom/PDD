@@ -12,7 +12,7 @@ public class Tigre extends Vertebrados {
 
  //Metodos abstractos definidos anteriormente en la clase vertebrados
 
-    public void alimentarse ();{
+    public void alimentarse (){
     System.out.print("Soy de la familia de los vertebrados y soy un tigre carnivoro")
 
     }
