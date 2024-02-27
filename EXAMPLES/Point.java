@@ -6,6 +6,7 @@ public class Point {
         x = 0.0;
         y = 0.0;
     }
+    
     void print() {
         System.out.println("Soy el punto " + x + " , " + y);
     }
