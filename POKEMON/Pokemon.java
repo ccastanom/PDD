@@ -6,7 +6,14 @@ public abstract class Pokemon {
     protected double peso;
     protected String sexo;
     protected int temporada;
-    
+
+ //metodos abstractos que comparten todos los pokemon
+
+    protected abstract void atacarPlacaje();
+    protected abstract void atacarAranazo();
+    protected abstract void atacarMordisco();
+
+
 
 
 }
